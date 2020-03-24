@@ -21,6 +21,4 @@ print("12 друзей Люции ")
 friends_list=api.friends.get(fields='contacts',count=12)
 print(friends_list)
 
-#https://oauth.vk.com/blank.html#access_token=27ddec3dacf2f782e6a989d185aa8d2ff9e6b13b3701c34ee089127f42f989d70b8a92e12ea8efade401c&expires_in=0&user_id=185413339
-
 
